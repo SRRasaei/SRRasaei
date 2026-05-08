@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/SRRasaei-Profile-blue?style=for-the-badge&logo=github" />
+</p>
+
+
 # 👋 Hi, I'm Seyed Reza Rasaei
 
 ### 🚀 Machine Learning Engineer • Embedded Systems Developer • Creative Technologist  
