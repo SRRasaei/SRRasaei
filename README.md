@@ -1,3 +1,5 @@
+<!-- Banner ASCII -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/SRRasaei-Profile-blue?style=for-the-badge&logo=github" />
 </p>
