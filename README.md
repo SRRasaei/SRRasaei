@@ -1,14 +1,15 @@
-███████╗██████╗ ██████╗ ██████╗  █████╗ ███████╗███████╗██╗
-██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██║
-███████╗██████╔╝██████╔╝██████╔╝███████║███████╗█████╗  ██║
-╚════██║██╔═══╝ ██╔══██╗██╔══██╗██╔══██║╚════██║██╔══╝  ██║
-███████║██║     ██║  ██║██║  ██║██║  ██║███████║███████╗███████╗
-╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-
-Code
-
 <p align="center">
   <img src="https://img.shields.io/badge/SRRasaei-Profile-blue?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=SRRasaei&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/STM32-Embedded-blue?style=for-the-badge&logo=stmicroelectronics" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+
 </p>
 
 
