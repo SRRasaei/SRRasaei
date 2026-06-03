@@ -78,7 +78,7 @@ Creative direction, product photography, and emotional brand storytelling.
 
 ## 📫 Contact
 
-- GitHub: **@Seyed_Reza_Rasaei**
+- GitHub: **@SRRasaei**
 - Email: *Reza.rasaiee@Gmail.com*
 
 ---
